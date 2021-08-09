@@ -1,8 +1,8 @@
 [
     {
-      "sonatypeProject": "application_test",
+      "sonatypeProject": "sonatype-ssc-automate-1",
       "sonatypeProjectStage": "build",
-      "fortifyApplication": "application_test",
-      "fortifyApplicationVersion": "1.0"
+      "fortifyApplication": "sonatype-ssc-automate-1",
+      "fortifyApplicationVersion": "Dev"
     }
 ]
