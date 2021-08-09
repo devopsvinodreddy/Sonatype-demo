@@ -1,7 +1,7 @@
 [
     {
       "sonatypeProject": "sonatype-ssc-automate-1",
-      "sonatypeProjectStage": "build",
+      "sonatypeProjectStage": "Build",
       "fortifyApplication": "sonatype-ssc-automate-1",
       "fortifyApplicationVersion": "Dev"
     }
