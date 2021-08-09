@@ -1,0 +1,8 @@
+[
+    {
+      "sonatypeProject": "application_test",
+      "sonatypeProjectStage": "build",
+      "fortifyApplication": "application_test",
+      "fortifyApplicationVersion": "1.0"
+    }
+]
